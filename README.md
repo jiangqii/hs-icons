@@ -1,2 +1,14 @@
-# hs-icons
-Hearthstone related vector icons
+# Hearthstone Icons
+A collection of Hearthstone related vector based icons.
+
+## Contents
+**Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+	<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+These are derived artworks based on graphics that appear in the game Hearthstone &copy; Blizzard Entertainment. Use of these artworks must comply with the relevant terms and conditions set out by Blizzard Entertainment.
