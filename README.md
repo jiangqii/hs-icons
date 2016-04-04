@@ -4,9 +4,11 @@ A collection of Hearthstone related vector based icons.
 ![Classic](/PNG/Set_Classic.png?raw=true "Classic")
 ![Naxx](/PNG/Set_Naxx.png?raw=true "The Curse of Naxxramas")
 ![OG](/PNG/Set_OG.png?raw=true "Whispers of the Old Gods")
+![Wild](PNG/Mode_Wild.png?raw=true "Wild Mode")
 
 ## Contents
 **Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods
+**Game Modes**: Wild, Standard: Kraken
 
 ## License
 
