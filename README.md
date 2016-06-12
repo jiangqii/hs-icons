@@ -9,6 +9,7 @@ A collection of Hearthstone related vector based icons.
 ## Contents
 **Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods
 **Game Modes**: Wild, Standard: Kraken
+**Misc**: Battle.Net
 
 ## License
 
