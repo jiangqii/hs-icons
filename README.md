@@ -7,7 +7,7 @@ A collection of Hearthstone related vector based icons.
 ![Kara](PNG/Set_Kara.png?raw=true "One Night at Karazhan")
 
 ## Contents
-**Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan
+**Sets**: Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan
 
 **Game Modes**: Wild, Standard: Kraken
 
