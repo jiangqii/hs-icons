@@ -11,7 +11,7 @@ A collection of Hearthstone related vector based icons.
 
 **Game Modes**: Wild, Standard: Kraken
 
-**Misc**: Battle.Net
+**Misc**: Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus
 
 ## License
 
