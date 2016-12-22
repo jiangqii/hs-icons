@@ -79,6 +79,16 @@ Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 </tr>
 </table>
 
+## Converting SVG to XAML
+To use SVG files in XAML they need to follow Microsoft's format. The following steps may be entirely disgusting, but do produce a perfect result.
+
+1. Open the SVG file in Internet Explorer.
+- Print the page, choosing the *Microsoft XPS Document Writer* (or similarly named device) and save the resulting file.
+- Open the XPS file with 7Zip or equivalent file archive tool, and extract the contents.
+- Find the file `Documents\Pages1.fpage` in the extracted directory tree, and open it in a text editor.
+- Depending on the SVG you may need to copy the whole `<Canvas>` element or just a single `<Path>` element.
+- Copy the XAML elements into your application.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
@@ -87,3 +97,4 @@ Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 These are derived artworks based on graphics that appear in the game Hearthstone &copy; Blizzard Entertainment. Use of these artworks must comply with the relevant terms and conditions set out by Blizzard Entertainment.
+
