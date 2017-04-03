@@ -2,7 +2,7 @@
 A collection of Hearthstone related vector based icons.
 
 ## Sets
-Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan.
+Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro.
 
 <table>
 <tr>
@@ -19,6 +19,7 @@ Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Gra
 </tr>
 <tr>
 <td><img src="/PNG/Set_Gadgetzan.png?raw=true" alt="Mean Streets of Gadgetzan" title="Mean Streets of Gadgetzan" /></td>
+<td><img src="/PNG/Set_Ungoro.png?raw=true" alt="Journey to Un'Goro" title="Journey to Un'Goro" /></td>
 </tr>
 </table>
 
