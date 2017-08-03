@@ -21,6 +21,7 @@ Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Gra
 <td><img src="/PNG/Set_Gadgetzan.png?raw=true" alt="Mean Streets of Gadgetzan" title="Mean Streets of Gadgetzan" /></td>
 <td><img src="/PNG/Set_Ungoro.png?raw=true" alt="Journey to Un'Goro" title="Journey to Un'Goro" /></td>
 <td><img src="/PNG/Set_HOF.png?raw=true" alt="Hall of Fame" title="Hall of Fame" /></td>
+<td><img src="/PNG/Set_ICC.png?raw=true" alt="Knights of the Frozen Throne" title="Knights of the Frozen Throne" /></td>
 </tr>
 </table>
 
@@ -81,6 +82,12 @@ Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 <td><img src="/PNG/Misc_Gadgetzan_Lotus.png?raw=true" alt="Jade Lotus" title="Jade Lotus" /></td>
 </tr>
 </table>
+
+## Optimized SVG
+[Scour](https://github.com/scour-project/scour) was used with the following options:
+```
+scour <input> <output> --remove-descriptive-elements --enable-comment-stripping --enable-id-stripping
+```
 
 ## Converting SVG to XAML
 To use SVG files in XAML they need to follow Microsoft's format. The following steps may be entirely disgusting, but do produce a perfect result.
