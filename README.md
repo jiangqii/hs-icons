@@ -2,7 +2,7 @@
 A collection of Hearthstone related vector based icons.
 
 ## Sets
-Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame.
+Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs.
 
 <table>
 <tr>
@@ -22,6 +22,9 @@ Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Gra
 <td><img src="/PNG/Set_Ungoro.png?raw=true" alt="Journey to Un'Goro" title="Journey to Un'Goro" /></td>
 <td><img src="/PNG/Set_HOF.png?raw=true" alt="Hall of Fame" title="Hall of Fame" /></td>
 <td><img src="/PNG/Set_ICC.png?raw=true" alt="Knights of the Frozen Throne" title="Knights of the Frozen Throne" /></td>
+</tr>
+<tr>
+<td><img src="/PNG/Set_KAC.png?raw=true" alt="Kobolds and Catacombs" title="Kobolds and Catacombs" /></td>
 </tr>
 </table>
 
@@ -89,6 +92,7 @@ Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 scour <input> <output> --remove-descriptive-elements --enable-comment-stripping --enable-id-stripping
 ```
 
+<!--
 ## Converting SVG to XAML
 To use SVG files in XAML they need to follow Microsoft's format. The following steps may be entirely disgusting, but do produce a perfect result.
 
@@ -98,6 +102,7 @@ To use SVG files in XAML they need to follow Microsoft's format. The following s
 - Find the file `Documents\Pages1.fpage` in the extracted directory tree, and open it in a text editor.
 - Depending on the SVG you may need to copy the whole `<Canvas>` element or just a single `<Path>` element.
 - Copy the XAML elements into your application.
+-->
 
 ## License
 
