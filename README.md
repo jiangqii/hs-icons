@@ -24,7 +24,7 @@ Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Gra
 <td><img src="/PNG/Set_ICC.png?raw=true" alt="Knights of the Frozen Throne" title="Knights of the Frozen Throne" /></td>
 </tr>
 <tr>
-<td><img src="/PNG/Set_KAC.png?raw=true" alt="Kobolds and Catacombs" title="Kobolds and Catacombs" /></td>
+<td><img src="/PNG/Set_LOOT.png?raw=true" alt="Kobolds and Catacombs" title="Kobolds and Catacombs" /></td>
 </tr>
 </table>
 
