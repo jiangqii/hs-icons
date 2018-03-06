@@ -69,7 +69,6 @@ Wild, Standard: Kraken, Standard: Mammoth.
 <tr>
 <td><img src="/PNG/Mode_Wild.png?raw=true" alt="Wild" title="Wild" /></td>
 <td><img src="/PNG/Mode_Standard_Kraken.png?raw=true" alt="Standard Kraken" title="Standard Kraken" /></td>
-<td><img src="/PNG/Mode_Standard_Kraken_Alt.png?raw=true" alt="Standard Kraken Alt" title="Standard Kraken Alt" /></td>
 <td><img src="/PNG/Mode_Standard_Mammoth.png?raw=true" alt="Standard Mammoth" title="Standard Mammoth" /></td>
 </tr>
 </table>
