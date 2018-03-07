@@ -63,13 +63,14 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
 </table>
 
 ## Game Modes
-Wild, Standard: Kraken, Standard: Mammoth.
+Wild, Standard: Kraken, Mammoth, Raven.
 
 <table>
 <tr>
 <td><img src="/PNG/Mode_Wild.png?raw=true" alt="Wild" title="Wild" /></td>
 <td><img src="/PNG/Mode_Standard_Kraken.png?raw=true" alt="Standard Kraken" title="Standard Kraken" /></td>
 <td><img src="/PNG/Mode_Standard_Mammoth.png?raw=true" alt="Standard Mammoth" title="Standard Mammoth" /></td>
+<td><img src="/PNG/Mode_Standard_Raven.png?raw=true" alt="Standard Raven" title="Standard Raven" /></td>
 </tr>
 </table>
 
