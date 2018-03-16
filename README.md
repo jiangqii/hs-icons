@@ -2,8 +2,6 @@
 A collection of Hearthstone related vector based icons.
 
 ## Sets
-Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs.
-
 <table>
 <tr>
 <td><img src="/PNG/Set_Classic.png?raw=true" alt="Classic" title="Classic" /></td>
@@ -25,12 +23,13 @@ Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Gra
 </tr>
 <tr>
 <td><img src="/PNG/Set_LOOT.png?raw=true" alt="Kobolds and Catacombs" title="Kobolds and Catacombs" /></td>
+<td><img src="/PNG/Set_WOOD.png?raw=true" alt="The Witchwood" title="The Witchwood" /></td>
 </tr>
 </table>
 
-## Classes
-Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
+Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood.
 
+## Classes
 <table>
 <tr>
 <td><img src="/PNG/Class_Druid.png?raw=true" alt="Druid" title="Druid" /></td>
@@ -62,9 +61,9 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
 </tr>
 </table>
 
-## Game Modes
-Wild, Standard: Kraken, Mammoth, Raven.
+Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
 
+## Game Modes
 <table>
 <tr>
 <td><img src="/PNG/Mode_Wild.png?raw=true" alt="Wild" title="Wild" /></td>
@@ -74,9 +73,9 @@ Wild, Standard: Kraken, Mammoth, Raven.
 </tr>
 </table>
 
-## Misc
-Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
+Wild, Standard: Kraken, Mammoth, Raven.
 
+## Misc
 <table>
 <tr>
 <td><img src="/PNG/Misc_BattleNet.png?raw=true" alt="BattleNet" title="BattleNet" /></td>
@@ -85,6 +84,7 @@ Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 <td><img src="/PNG/Misc_Gadgetzan_Lotus.png?raw=true" alt="Jade Lotus" title="Jade Lotus" /></td>
 </tr>
 </table>
+Battle.Net, Gadgetzan Grimy Goons, Kabal and Lotus.
 
 ## Optimized SVG
 [Scour](https://github.com/scour-project/scour) was used with the following options:
