@@ -4,31 +4,32 @@ A collection of Hearthstone related vector based icons.
 ## Sets
 <table>
 <tr>
+<td><img src="/PNG/Set_Basic.png?raw=true" alt="Basic" title="Basic" /></td>
 <td><img src="/PNG/Set_Classic.png?raw=true" alt="Classic" title="Classic" /></td>
 <td><img src="/PNG/Set_Naxx.png?raw=true" alt="The Curse of Naxxramas" title="The Curse of Naxxramas" /></td>
 <td><img src="/PNG/Set_GVG.png?raw=true" alt="Goblins vs Gnomes" title="Goblins vs Gnomes" /></td>
-<td><img src="/PNG/Set_BRM.png?raw=true" alt="Black Rock Mountain" title="Black Rock Mountain" /></td>
 </tr>
 <tr>
+<td><img src="/PNG/Set_BRM.png?raw=true" alt="Black Rock Mountain" title="Black Rock Mountain" /></td>
 <td><img src="/PNG/Set_TGT.png?raw=true" alt="The Grand Tournament" title="The Grand Tournament" /></td>
 <td><img src="/PNG/Set_LOE.png?raw=true" alt="The League of Explorers" title="The League of Explorers" /></td>
 <td><img src="/PNG/Set_OG.png?raw=true" alt="Whispers of the Old Gods" title="Whispers of the Old Gods" /></td>
-<td><img src="/PNG/Set_Kara.png?raw=true" alt="One Night in Karazhan" title="One Night in Karazhan" /></td>
 </tr>
 <tr>
+<td><img src="/PNG/Set_Kara.png?raw=true" alt="One Night in Karazhan" title="One Night in Karazhan" /></td>
 <td><img src="/PNG/Set_Gadgetzan.png?raw=true" alt="Mean Streets of Gadgetzan" title="Mean Streets of Gadgetzan" /></td>
 <td><img src="/PNG/Set_Ungoro.png?raw=true" alt="Journey to Un'Goro" title="Journey to Un'Goro" /></td>
 <td><img src="/PNG/Set_HOF.png?raw=true" alt="Hall of Fame" title="Hall of Fame" /></td>
-<td><img src="/PNG/Set_ICC.png?raw=true" alt="Knights of the Frozen Throne" title="Knights of the Frozen Throne" /></td>
 </tr>
 <tr>
+<td><img src="/PNG/Set_ICC.png?raw=true" alt="Knights of the Frozen Throne" title="Knights of the Frozen Throne" /></td>
 <td><img src="/PNG/Set_LOOT.png?raw=true" alt="Kobolds and Catacombs" title="Kobolds and Catacombs" /></td>
 <td><img src="/PNG/Set_WOOD.png?raw=true" alt="The Witchwood" title="The Witchwood" /></td>
 <td><img src="/PNG/Set_BOOM.png?raw=true" alt="The Boomsday Project" title="The Boomsday Project" /></td>
 </tr>
 </table>
 
-Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project.
+Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project.
 
 ## Classes
 <table>
