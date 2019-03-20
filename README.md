@@ -29,10 +29,11 @@ A collection of Hearthstone related vector based icons.
 </tr>
 <tr>
 <td><img src="/PNG/Set_Troll.png?raw=true" alt="Rastakhan's Rumble" title="Rastakhan's Rumble" /></td>
+<td><img src="/PNG/Set_Shadows.png?raw=true" alt="Rise of Shadows" title="Rise of Shadows" /></td>
 </tr>
 </table>
 
-Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project, Rastakhan's Rumble.
+Basic, Classic, The Curse of Naxxramas, Goblins vs Gnomes, Black Rock Mountain, The Grand Tournament, The League of Explorers, Whispers of the Old Gods, One Night in Karazhan, Mean Streets of Gadgetzan, Journey to Un'Goro, Hall of Fame, Knights of the Frozen Throne, Kobolds and Catacombs, The Witchwood, The Boomsday Project, Rastakhan's Rumble, Rise of Shadows.
 
 ## Classes
 <table>
