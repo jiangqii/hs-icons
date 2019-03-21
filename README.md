@@ -76,11 +76,14 @@ Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock, Warrior.
 <td><img src="/PNG/Misc_StandardBook.png?raw=true" alt="Standard Book" title="Standard Book" /></td>
 <td><img src="/PNG/Mode_Standard_Kraken.png?raw=true" alt="Standard Kraken" title="Standard Kraken" /></td>
 <td><img src="/PNG/Mode_Standard_Mammoth.png?raw=true" alt="Standard Mammoth" title="Standard Mammoth" /></td>
+</tr>
+<tr>
 <td><img src="/PNG/Mode_Standard_Raven.png?raw=true" alt="Standard Raven" title="Standard Raven" /></td>
+<td><img src="/PNG/Mode_Standard_Dragon.png?raw=true" alt="Standard Dragon" title="Standard Dragon" /></td>
 </tr>
 </table>
 
-Wild, Standard: Kraken, Mammoth, Raven.
+Wild, Standard: Kraken, Mammoth, Raven, Dragon.
 
 ## Misc
 <table>
